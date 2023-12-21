@@ -63,3 +63,11 @@ code-explainer -f "C:\Users\Sahan Mondal\DSA Practice\Graphs\E. Topological Sort
 ```
 
 If you make any changes in the code, always run `npm install -g .` first, and then `code-explainer -f <YOUR_CODE_FILE_PATH>`.
+
+## Demo
+
+https://github.com/sahanmndl/ai-code-explainer/assets/76529959/edc1d146-0f8b-463e-a84c-1b837f0bccb4
+
+
+
+
