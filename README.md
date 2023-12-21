@@ -57,6 +57,8 @@ code-explainer -f <YOUR_CODE_FILE_PATH>
 For example,
 
 ```bash
+code-explainer -f "samplecode.js"
+OR
 code-explainer -f "C:\Users\Sahan Mondal\ReactNativeProjects\PaySplit\src\components\list-items\TransactionMemberItem.tsx"
 OR
 code-explainer -f "C:\Users\Sahan Mondal\DSA Practice\Graphs\E. Topological Sorting\BFS(Kahn's_Algo).cpp"
